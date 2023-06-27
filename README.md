@@ -20,7 +20,7 @@ Tailwind CSS
 Framer Motion
 Stripe
 
-#Features
+# Features
 
 User Registration and Login: Users can create an account and log in to access the food ordering functionality.
 Browse Food Items: Users can browse through a variety of food items available for delivery.
@@ -34,4 +34,4 @@ Data Visualization: Admins can view order and item statistics through charts pow
 Database: The application uses Firebase as the database to store and retrieve data.
 The project also utilizes Tailwind CSS as the main CSS framework and File-saver to enable users to download the generated images.
 
-#Screenshots
+# Screenshots
