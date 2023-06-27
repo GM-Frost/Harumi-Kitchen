@@ -37,6 +37,7 @@ Harumi Kitchen is a food delivery application built using React. This project wa
 # Screenshots
 ![screencapture-localhost-3000-login-2023-06-27-13_18_36](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/831ff2da-f0db-43d5-96a3-c7fe60d54cf8)
 ![screencapture-localhost-3000-2023-06-27-13_19_39](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/6871766a-3c1e-4122-a6cc-3b01965e56c7)
+![screencapture-localhost-3000-2023-06-27-13_19_53](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/d6063114-908b-47cc-b153-4f4b32e36998)
 ![screencapture-checkout-stripe-c-pay-cs-test-a1OYCzHBk9FTyaMQjjsV5SOS9kN7ZFNm9Tv671XzsTxkPeLh1r8jOsOLn6-2023-06-27-13_25_24](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/c525f31f-4764-46a7-b7f9-9db0afc135d0)
 ![screencapture-harumi-kitchen-nayanbastola-checkout-success-2023-06-27-13_26_49](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/7d18c9d6-d90a-4d61-a73e-25ac343be3f2)
 ![screencapture-localhost-3000-dashboard-home-2023-06-27-13_20_07](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/df40abb7-6891-47e5-8529-c79af6f4e9c6)
