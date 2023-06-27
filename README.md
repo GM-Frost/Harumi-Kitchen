@@ -35,4 +35,12 @@ Harumi Kitchen is a food delivery application built using React. This project wa
 * The project also utilizes Tailwind CSS as the main CSS framework and File-saver to enable users to download the generated images.
 
 # Screenshots
-<img src="https://nayanbastola.com:2083/cpsess3581520578/viewer/home6%2fnayanbas%2fharumi-kitchen.nayanbastola.com%2fnewfolder/screencapture-localhost-3000-login-2023-06-27-13_18_36.png" width="100" title="hover text">
+![screencapture-localhost-3000-login-2023-06-27-13_18_36](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/831ff2da-f0db-43d5-96a3-c7fe60d54cf8)
+![screencapture-localhost-3000-2023-06-27-13_19_39](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/6871766a-3c1e-4122-a6cc-3b01965e56c7)
+![screencapture-checkout-stripe-c-pay-cs-test-a1OYCzHBk9FTyaMQjjsV5SOS9kN7ZFNm9Tv671XzsTxkPeLh1r8jOsOLn6-2023-06-27-13_25_24](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/c525f31f-4764-46a7-b7f9-9db0afc135d0)
+![screencapture-harumi-kitchen-nayanbastola-checkout-success-2023-06-27-13_26_49](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/7d18c9d6-d90a-4d61-a73e-25ac343be3f2)
+![screencapture-localhost-3000-dashboard-home-2023-06-27-13_20_07](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/df40abb7-6891-47e5-8529-c79af6f4e9c6)
+![screencapture-localhost-3000-dashboard-items-2023-06-27-13_20_27](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/4e3b3c25-16c6-4a11-ad68-b0d0425a5f43)
+![screencapture-localhost-3000-dashboard-orders-2023-06-27-13_20_41 (1)](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/3648bb22-54cd-4779-b6ce-536e88749fac)
+![screencapture-localhost-3000-dashboard-newItem-2023-06-27-13_23_02](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/baacf705-293c-44e4-b795-56eab983350e)
+![screencapture-localhost-3000-dashboard-users-2023-06-27-13_24_56](https://github.com/GM-Frost/Harumi-Kitchen/assets/110303752/02659022-bf34-49f9-a344-f663200bb3f5)
