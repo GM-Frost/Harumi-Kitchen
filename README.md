@@ -35,3 +35,4 @@ Harumi Kitchen is a food delivery application built using React. This project wa
 * The project also utilizes Tailwind CSS as the main CSS framework and File-saver to enable users to download the generated images.
 
 # Screenshots
+<img src="https://nayanbastola.com:2083/cpsess3581520578/viewer/home6%2fnayanbas%2fharumi-kitchen.nayanbastola.com%2fnewfolder/screencapture-localhost-3000-login-2023-06-27-13_18_36.png" width="100" title="hover text">
